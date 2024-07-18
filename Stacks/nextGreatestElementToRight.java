@@ -1,5 +1,11 @@
 import java.util.*;
 
+/*
+    The Next greater Element for an element x is the first greater element on the 
+    right side of x in the array. Elements for which no greater element exist, 
+    consider the next greater element as -1. 
+*/
+
 public class nextGreatestElementToRight {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
